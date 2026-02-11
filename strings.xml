@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MKIRR Karaoke</string>
+    <string name="app_version">1.0.0</string>
+    <string name="app_description">Modern Karaoke Application with Bluetooth Support</string>
+
+    <!-- Permissions -->
+    <string name="permission_microphone_title">Microphone Permission</string>
+    <string name="permission_microphone_message">MKIRR Karaoke needs access to your microphone to record your singing.</string>
+
+    <string name="permission_bluetooth_title">Bluetooth Permission</string>
+    <string name="permission_bluetooth_message">MKIRR Karaoke needs Bluetooth permission to connect to speakers.</string>
+
+    <string name="permission_storage_title">Storage Permission</string>
+    <string name="permission_storage_message">MKIRR Karaoke needs access to your storage to load background videos and songs.</string>
+
+    <!-- Status Messages -->
+    <string name="status_microphone_unplugged">MICROPHONE UNPLUGGED</string>
+    <string name="status_bluetooth_connected">Bluetooth Speaker Supported Microphone</string>
+    <string name="status_mic_on">MIC ON</string>
+    <string name="status_mic_off">MIC IS OFF</string>
+</resources>
