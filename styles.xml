@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Theme -->
+    <style name="Theme.MKIRR" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#ff6600</item>
+        <item name="colorPrimaryDark">#0a0015</item>
+        <item name="colorAccent">#00ffff</item>
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">#0a0015</item>
+        <item name="android:navigationBarColor">#0a0015</item>
+    </style>
+
+    <!-- No ActionBar Theme -->
+    <style name="Theme.MKIRR.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
